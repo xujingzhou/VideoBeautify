@@ -1,0 +1,57 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+//  Created by Johnny Xu(徐景周) on 8/14/14.
+//  Copyright (c) 2014 Future Studio. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#import "GPUImage.h"
+
+#import "YoukuUploader.h"
+#import "AFNetworking.h"
+#import "WXApi.h"
+
+// VideoBeautify by Sina Weibo
+#define kAppWeiboKey         @"519869435"
+#define kAppWeiboSecret      @"5ad8bd6d47aeedb8b9c398a0692be7b4"
+#define kWeiboRedirectURI    @"http://www.sina.com"
+
+// VideoBeautify by Weixi
+#define kAppWeixiKey         @"wxcee0c5bd24c2265c"
+#define kAppWeixiSecret      @"88474d3dee747870cd55fb0111700ec2"
+
+// Youku
+#define kYoukuAppKey @"081488d55dbf9517"
+#define kYoukuAppScrect @"e0a72173d9e5b69bee12f0a3845588bb"
+#define kYoukuRedirectUri @"http://i.youku.com/u/UMTcxOTA4MjM3Ng"
+#define kYoukuRedirectUriChinese @"http://i.youku.com/u/UMTcxOTA4MjM3Ng"
+#define kYoukuCallbackUrl @"http://i.youku.com/u/UMTcxOTA4MjM3Ng"
+
+#define kOAuthCredential @"kOAuthCredential"
+#define kOAuthAccessToken @"access_token"
+#define kOAuthExpiresIn @"expires_in"
+#define kOAuthRefreshToken @"refresh_token"
+#define kOAuthTokenType @"token_type"
+
+// Youku API
+#define kApiYoukuBasePath @"https://openapi.youku.com"
+#define kApiYoukuTokenPath @"/v2/oauth2/token"
+#define kApiYoukuMyVideos @"/v2/videos/by_me.json"
+#define kApiYoukuUserVideos @"/v2/videos/by_user.json"
+#define kApiYoukuSearcheByKeyword @"v2/searches/video/by_keyword.json"
+#define kApiYoukuTVSearcheByKeyword @"v2/searches/show/by_keyword.json"
+#define kApiYoukuTVInfoPath @"/v2/searches/show/address_unite.json"
+
+#endif
