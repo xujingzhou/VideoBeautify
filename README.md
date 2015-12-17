@@ -10,5 +10,8 @@ Tested on iPhone 4 and iPhone 5S.
 Johnny Xu(徐景周)  
 Future Studio
 
-Demo:  
-<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo.gif" width = "300" height = "400" alt="Demo" align=center />
+Demo 1    
+<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo2.gif" width = "300" height = "500" alt="Demo" align=center />
+
+Demo 2   
+<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo.gif" width = "300" height = "500" alt="Demo" align=center />
