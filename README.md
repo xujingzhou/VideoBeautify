@@ -7,13 +7,11 @@ Tested on iPhone 4 and iPhone 5S.
  
 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。   
    
+产品效果展示： 
+https://www.douyin.com/video/7363552049025256719
+
 Johnny Xu(徐景周)  
 Future Studio(未来工作室)
 
-产品效果展示： https://www.douyin.com/video/7363552049025256719
 
-Demo 1    
-<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo2.gif" width = "300" height = "500" alt="Demo" align=center />
 
-Demo 2   
-<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo.gif" width = "300" height = "500" alt="Demo" align=center />
