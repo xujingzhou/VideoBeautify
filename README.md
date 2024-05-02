@@ -8,8 +8,8 @@ Tested on iPhone 4 and iPhone 5S.
 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。   
    
 产品效果展示：  
-https://www.douyin.com/video/6638058335629217038  
-https://www.douyin.com/video/7363550075701792040  
+https://v.m.chenzhongtech.com/fw/photo/3xvett4eqewxbw9  
+https://v.m.chenzhongtech.com/fw/photo/3xfis7wukm66shs  
 
 Johnny Xu(徐景周)  
 Future Studio(未来工作室)
