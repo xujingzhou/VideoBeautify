@@ -11,8 +11,9 @@ Tested on iPhone 4 and iPhone 5S.
 https://v.m.chenzhongtech.com/fw/photo/3xvett4eqewxbw9  
 https://v.m.chenzhongtech.com/fw/photo/3xfis7wukm66shs  
 
+Copyright and all rights therein are retained by authors or by other copyright holders.  
 Johnny Xu(徐景周)  
-Future Studio(未来工作室)
+Future Studio  
 
 
 
